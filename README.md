@@ -5,7 +5,7 @@ This repository contains a setup to automatically test algorithms written in C++
 ## Directory Structure
 
 ```
-/testing-repo/
+/AlgoTestSuite/
 ├── main.cpp / main.py               # The code you want to test (can be C++ or Python)
 ├── accept.cpp / accept.py           # The reference/accepted/correct code to compare results against (can be C++ or Python)
 ├── test_generator.cpp / test_generator.py  # Code that generates inputs to feed both `main` and `accept` (can be C++ or Python)
