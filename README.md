@@ -20,12 +20,10 @@ This repository contains a setup to automatically test algorithms written in C++
 
 1. **C++:**
    - Make sure you have a working C++ compiler (`g++`) installed and accessible via the command line.
-   - `g++` is typically included on all major Linux distributions. On macOS, it can be installed via Xcode or `brew install gcc`.
 
 2. **Python:**
    - Ensure that you have Python 3 installed.
    - `python3` should be the command to invoke Python 3.x.
-   - You can install it via your package manager (e.g., `sudo apt install python3` on Linux, or `brew install python3` on macOS).
 
 ## How to Use
 
